@@ -1,3 +1,5 @@
+[![Generate Stats Images](https://github.com/K1ethoang/cf-stats/actions/workflows/main.yml/badge.svg)](https://github.com/K1ethoang/cf-stats/actions/workflows/main.yml)
+
 # Codeforces Stat Visualization
 
 <a href="https://github.com/sudiptob2/cf-stats">
