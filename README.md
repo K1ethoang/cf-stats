@@ -2,12 +2,12 @@
 
 # Codeforces Stat Visualization
 
-<a href="https://github.com/sudiptob2/cf-stats">
+<a href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
-<a href="https://github.com/sudiptob2/cf-stats">
+<a href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" />
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
 </a>
